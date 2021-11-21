@@ -4,6 +4,8 @@ My second project in Programming for Data Science Nanodegree Program in Udacity 
 
 
 
+  Author: Olubunmi Emmanuel Ogunleye
+
 ## Table of Contents
 * [Project Details](#project-details)
 * [The Datasets](#the-datasets)
