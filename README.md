@@ -1,6 +1,19 @@
 # Explore Us Bikeshare Data
 My second project in Programming for Data Science Nanodegree Program in Udacity platform.
 
+
+
+
+## Table of Contents
+* [Project Details](#project-details)
+* [The Datasets](#the-datasets)
+* [Statistics Computed](#statistics-computed)
+* [Software Needs](#software-needs)
+* [Udacity data analyst Bikeshare data](#udacity-data-analyst-bikeshare-data)
+* [Built with](#built-with)
+* [Files used](#files-used)
+
+
 ## Project Details
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
 
