@@ -212,7 +212,18 @@ def trip_duration_stats(df):
     print("\nThis took {} seconds.".format((time.time() - start_time)))
     print('-'*40)
 
+    # Display data based on location
+    view_data = input('\nWould you like to view 5 rows of individual trip data?? Enter yes or no\n')
+    start_loc = 5
+    while True:
+        print(df.iloc[0:start_loc])
+        start_loc += 5
+        view_display = input("Do you wish to continue??:").lower()
+        if view_display.lower() != 'yes':
+            break
 
+
+            
 def user_stats(df, city):
     """Display statistics on bikeshare users."""
 
